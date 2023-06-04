@@ -12,7 +12,7 @@ class ConferenceCrudController extends AbstractCrudController
         return Conference::class;
     }
 
-    /*
+   /*
     public function configureFields(string $pageName): iterable
     {
         return [
