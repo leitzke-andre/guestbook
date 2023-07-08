@@ -104,5 +104,11 @@
         "symfony/phpunit-bridge": "^6.2",
         "symfony/stopwatch": "6.2.*",
         "symfony/web-profiler-bundle": "6.2.*"
-    }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packagist.org"
+        }
+    ]
 }
